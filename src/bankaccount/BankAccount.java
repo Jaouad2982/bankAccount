@@ -1,3 +1,7 @@
+//A program with two Classes and one interface. You have the options to get a balance, retrieve a balance, deduct funds,
+// check your balance and quit. 
+//Jaouad Sarouti A programming lover
+
 package bankaccount;
 public class BankAccount implements inter{
 	
